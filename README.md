@@ -2,7 +2,7 @@
 
 My name is Pavel. I am a freelance frontend developer living in Russia, Moscow.
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)]
 
 ## 🛠  Technologies and tools
 
