@@ -1,6 +1,6 @@
-# Bonjour ! 🥖
+# Hi !
 
-My name is Valentin Briand. I am a freelance frontend developer living near Paris, France. 🥐
+My name is Pavel. I am a freelance frontend developer living in Russia, Moscow.
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
 
