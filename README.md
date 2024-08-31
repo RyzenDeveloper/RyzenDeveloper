@@ -42,7 +42,7 @@
 
 <h2> Connect with me </h2>
 <div style="display: flex; gap: 20px;">
-<a href = 'https://cpl3.dev/' target=”_blank”> <img width = '32px' align= 'center' src="img/online-portfolio.svg"/></a> 
+<!-- <a href = 'https://cpl3.dev/' target=”_blank”> <img width = '32px' align= 'center' src="img/online-portfolio.svg"/></a>  -->
 <a href = 'https://www.github.com/RyzenDeveloper' target=”_blank”> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 <a href = 'https://t.me/pashakat02' target=”_blank”> <img width = '32px' align= 'center' src="img/telegram.svg"/></a> 
 </div>
