@@ -39,13 +39,12 @@
 <a href= https://github.com/RyzenDeveloper?tab=repositories&q=&type=&language=git&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
 <a href= https://github.com/RyzenDeveloper?tab=repositories&q=&type=&language=bootstrap&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
 
-
-<h2> Connect with me </h2>
+ <!-- <h2> Connect with me </h2>
 <div style="display: flex; gap: 20px;">
-<!-- <a href = 'https://cpl3.dev/' target=”_blank”> <img width = '32px' align= 'center' src="img/online-portfolio.svg"/></a>  -->
+<!-- <a href = 'https://cpl3.dev/' target=”_blank”> <img width = '32px' align= 'center' src="img/online-portfolio.svg"/></a>  --!>
 <a href = 'https://www.github.com/RyzenDeveloper' target=”_blank”> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 <a href = 'https://t.me/pashakat02' target=”_blank”> <img width = '32px' align= 'center' src="img/telegram.svg"/></a> 
-</div>
+</div> -->
 
 
 <h2> My GitHub Stats <img src='img/github.gif' width='32px' height=32px> </h2>
